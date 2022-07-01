@@ -31,3 +31,13 @@
 ### [Aula 13 - Coleção: Enum, Dictionary, Hashtable, SortedList e Iterador](./13/README.md)
 
 ### [Aula 14 - Revisando coleções](./14/README.md)
+
+### [Aula 15 - Introdução à bibliotecas](./15/README.md)
+
+### [Aula 16 - WPF: Introdução](./16/README.md)
+
+### [Aula 17 - WPF: XAML](./17/README.md)
+
+### Aula 18 - WPF: MVVM
+
+### [Aula 19 - WPF: Revisão](./19/README.md)

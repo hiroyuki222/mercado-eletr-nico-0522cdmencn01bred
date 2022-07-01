@@ -112,3 +112,13 @@ https://github.com/ArielLopes888/Aula10
 #### [Link do repositório](https://github.com/lanyarag/dhme_treinamento/tree/master/Mesa6)
 
 #### Descrição/Observação (Opcional)
+
+
+### Grupo 8
+
+#### Colaboradora 
+- Jaqueline Rossetto Scagliante
+
+#### [Link do repositório](https://github.com/jaquerossetto/aula10-classes-poo/blob/main/README.md)
+
+#### Descrição/Observação (Opcional)

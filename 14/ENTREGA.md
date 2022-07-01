@@ -50,9 +50,14 @@
 - Luan Victor
 - Matheus Texeira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/cassiofreitas/dhme_aulas_e_exercicios/tree/main/aula14_atividade_1)
 
 #### Descrição/Observação (Opcional)
+ - cassiofreitas:
+   - Decidimos fazer um código só, em conjunto.
+   - Usamos recursos avançados que o Matheus já conhece, para aprimorar nossa habilidade e para assimilarmos práticas do cotidiano.
+   - Optei por usar alguns padrões de pastas que Matheus usa, porque é bem similar ao que gosto de usar e tem um fundamento bacana.
+   - Comecei a usar cada classe em um arquivo .cs, também prática que parece ser comum aos C# Developers. 
 
 ----
 
@@ -64,7 +69,7 @@
 - Caroliny Cagnoni
 - Hugo Diniz
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/carlarani/aula14)
 
 #### Descrição/Observação (Opcional)
 
@@ -92,7 +97,7 @@
 - Isabel Catão
 - Salomão Kim
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/sekimzero/Aula14_Atividade)
 
 #### Descrição/Observação (Opcional)
 

@@ -6,6 +6,8 @@
 
 Esperamos nessa atividade que o aluno compreenda os recursos de coleção e estimular a colaboração do grupo no processo de implementação de soluções utilizando a linguagem C#.
 
+[Código fonte de apoio](https://drive.google.com/file/d/10qsg8yURoCSYXmQf3cb-T-OiG9tDKppJ)
+
 ### Instruções
 
 1. Com base no código fonte:

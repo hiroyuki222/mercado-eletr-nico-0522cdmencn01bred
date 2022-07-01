@@ -41,9 +41,9 @@
 
 #### [Link do repositório](https://github.com/sekimzero/Aula11-Aplicando_Atribuicao)
 
-**Obs: Exercicio realizado pelo LiveShare**
-
 #### Descrição/Observação (Opcional)
+
+**Obs: Exercicio realizado pelo LiveShare**
 
 ----
 
@@ -103,7 +103,20 @@
 - Amanda Barreto
 - Ariel Lopes
 - Jose Iranildo Junior
-https://github.com/ArielLopes888/Aula11
-#### Link do repositório
+
+#### [Link do repositório](https://github.com/ArielLopes888/Aula11)
 
 #### Descrição/Observação (Opcional
+
+----
+
+### Grupo 7
+
+#### Colaboradores
+
+-Jaqueline Rossetto Scagliante
+
+#### [Link do repositório](https://github.com/jaquerossetto/aula11-controlador-acesso)
+
+#### Descrição/Observação (Opcional)
+

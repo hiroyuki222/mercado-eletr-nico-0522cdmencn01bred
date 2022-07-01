@@ -93,7 +93,7 @@ Melhoras, Prof!
 - Laís Baltar
 - Matheus Texeira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/hiroyuki222/Checkpoint)
 
 #### Descrição/Observação (Opcional)
 

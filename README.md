@@ -41,3 +41,9 @@
 ### Aula 18 - WPF: MVVM
 
 ### [Aula 19 - WPF: Revisão](./19/README.md)
+
+### [Aula 21 - Banco de dados: Introdução](./21/README.md)
+
+### [Aula 22 - Banco de dados: Relacionamento](./22/README.md)
+
+### [Aula 23 - Banco de dados: Manipulando dados](./23/README.md)

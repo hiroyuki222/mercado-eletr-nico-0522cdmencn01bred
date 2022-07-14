@@ -1,9 +1,11 @@
 # Colaboradores
 
-- Seu nome aqui...
+- Matheus Teixeira  
+- Alan Santana  
+- Jaqueline Scagliante
 
 ## Link do repositório
 
-- [Seu link aqui]()
+- [Aula19](https://github.com/jaquerossetto/Aula19-WPF)
 
 ## Descrição/Observação (Opcional)

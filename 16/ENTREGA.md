@@ -1,4 +1,4 @@
-# Aula 16 - Entrega do Checkpoint
+# Aula 16 - Entrega do Notepad em Windows Presentation Foundation
 
 ## Formato da entrega
 
@@ -59,8 +59,11 @@
 ### Grupo 4
 
 #### Colaboradores
+- Anderlany 
+- Caroliny Cagnoni
+- Iranildo Junior
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/lanyarag/WpfApp.git)
 
 #### Descrição/Observação (Opcional)
 
@@ -89,8 +92,10 @@
 ### Grupo 7
 
 #### Colaboradores
+- Amanda Barreto
+- Laís Baltar
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/amandacbarreto/BlocoDeNotas)
 
 #### Descrição/Observação (Opcional)
 
